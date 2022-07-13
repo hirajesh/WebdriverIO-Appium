@@ -1,1 +1,1 @@
-# WebdriverIO-Appium-Cucumber
+# WebdriverIO-Appium
